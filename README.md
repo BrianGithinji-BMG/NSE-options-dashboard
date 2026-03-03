@@ -64,6 +64,12 @@ Professional grey and white theme with:
 - White metric cards with subtle shadows
 - Professional borders and spacing
 
+## Deployment
+
+The application is live on Streamlit:
+
+[https://briangithinji-bmg-nse-options-dash-nse-options-dashboard-m051ki.streamlit.app/](https://briangithinji-bmg-nse-options-dash-nse-options-dashboard-m051ki.streamlit.app/)
+
 ## Support
 
 For issues or feature requests, check the application logs in the terminal.

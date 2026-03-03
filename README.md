@@ -56,13 +56,6 @@ Default parameters:
 - `requirements.txt` - Python dependencies
 - `README.md` - This file
 
-## Theme
-
-Professional grey and white theme with:
-- Clean light grey background
-- Dark grey text for readability
-- White metric cards with subtle shadows
-- Professional borders and spacing
 
 ## Deployment
 
